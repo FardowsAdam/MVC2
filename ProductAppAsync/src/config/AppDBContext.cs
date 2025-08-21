@@ -11,6 +11,8 @@ namespace ProductAppAsync.src.config
         }
 
         public DbSet<User> Users { get; set; }
+        
+        public DbSet<User> Profile { get; set; }
 
     
 

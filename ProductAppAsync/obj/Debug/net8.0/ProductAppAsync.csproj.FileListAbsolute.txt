@@ -167,3 +167,4 @@ C:\Users\96657\Desktop\Haraka-internship\Haraka-Task12\ProductAppAsync\obj\Debug
 C:\Users\96657\Desktop\Haraka-internship\Haraka-Task12\ProductAppAsync\obj\Debug\net8.0\ProductAppAsync.pdb
 C:\Users\96657\Desktop\Haraka-internship\Haraka-Task12\ProductAppAsync\obj\Debug\net8.0\ProductAppAsync.genruntimeconfig.cache
 C:\Users\96657\Desktop\Haraka-internship\Haraka-Task12\ProductAppAsync\obj\Debug\net8.0\ref\ProductAppAsync.dll
+C:\Users\96657\Desktop\Haraka-internship\Haraka-Task12\ProductAppAsync\obj\Debug\net8.0\ProductAppAsync.sourcelink.json
